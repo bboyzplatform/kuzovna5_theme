@@ -1,0 +1,20 @@
+{
+    "name": "billyboyz/avion-custom",
+    "type": "pagekit-theme",
+    "version": "1.0.0",
+    "title": "Avion custom",
+    "description": "customized by billyboyz",
+    "license": "MIT",
+    "copyright": "billyboyz",
+    "authors": [{
+        "name": "avion-custom",
+        "email": "bilazikboy@gmail.com",
+        "homepage": "http://vk.com"
+    }],
+    "extra": {
+        "image": "image.jpg"
+    },
+    "archive": {
+        "exclude": ["!/app", "!/css", "/app/assets"]
+    }
+}

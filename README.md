@@ -1,2 +1,3 @@
-# kuzovna5_theme
-Avion theme. Customizing by billyboyz
+# Avion Theme
+
+A very clean and simple theme great for blogging.
